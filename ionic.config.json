@@ -1,0 +1,8 @@
+{
+  "name": "fcmDemo",
+  "app_id": "3e8f12d4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
